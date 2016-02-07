@@ -1,0 +1,3 @@
+CREATE SCHEMA [Anthony]
+	AUTHORIZATION [Anthony]
+GO
